@@ -1,1 +1,1 @@
-# EclipseConn
+# RestAssuredDemoProject
